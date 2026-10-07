@@ -1,0 +1,54 @@
+name: Notify IndexNow after deployment
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: indexnow-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Validate static publish files
+        shell: bash
+        run: |
+          test -f sitemap.xml
+          test "$(cat 834171f3e725dab48757b83226a4b9d3.txt)" = "834171f3e725dab48757b83226a4b9d3"
+
+      - name: Wait for deployment to publish the key
+        shell: bash
+        run: |
+          key='834171f3e725dab48757b83226a4b9d3'
+          key_url="https://jichangzhuanxianyun.com/${key}.txt"
+
+          # The site is deployed by an external platform connected to this
+          # repository. Give that build a head start, then wait until the exact
+          # key file (rather than an HTML fallback page) is publicly available.
+          sleep 60
+          for attempt in {1..30}; do
+            body="$(curl --fail --silent --show-error "$key_url" || true)"
+            if [ "$body" = "$key" ]; then
+              echo "IndexNow key is publicly available."
+              exit 0
+            fi
+            echo "Waiting for deployment (attempt ${attempt}/30)"
+            sleep 10
+          done
+          echo "Key file was not publicly available after the deployment wait" >&2
+          exit 1
+
+      - name: Submit sitemap URLs to IndexNow
+        run: >-
+          python3 scripts/submit_indexnow.py
+          --sitemap sitemap.xml
+          --key-file 834171f3e725dab48757b83226a4b9d3.txt

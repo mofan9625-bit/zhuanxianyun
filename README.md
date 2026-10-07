@@ -52,3 +52,15 @@
 
 ---
 *© 2026 机场专线云 (jichangzhuanxianyun.com) - 专注于 2026 稳定机场推荐、高速 IPLC 专线测评与科学上网技术指南*
+
+## IndexNow 自动推送
+
+本项目是仓库根目录直接发布的纯静态站，因此 IndexNow 密钥文件也放在根目录，发布后对应地址为 `https://jichangzhuanxianyun.com/834171f3e725dab48757b83226a4b9d3.txt`。
+
+`.github/workflows/indexnow.yml` 会在 `main` 分支更新后等待外部托管平台完成构建和发布；确认线上密钥文件内容正确后，读取 `sitemap.xml` 中的全部 URL，并自动提交到 IndexNow API。
+
+如需手动提交，可运行：
+
+```bash
+python scripts/submit_indexnow.py --sitemap sitemap.xml --key-file 834171f3e725dab48757b83226a4b9d3.txt
+```
