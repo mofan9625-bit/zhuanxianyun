@@ -1,0 +1,45 @@
+/* Custom CSS overrides for VitePress theme */
+
+:root {
+  --vp-c-brand-1: #6366f1;
+  --vp-c-brand-2: #4f46e5;
+  --vp-c-brand-3: #4338ca;
+  --vp-c-brand-soft: rgba(99, 102, 241, 0.14);
+}
+
+.dark {
+  --vp-c-brand-1: #818cf8;
+  --vp-c-brand-2: #6366f1;
+  --vp-c-brand-3: #4f46e5;
+  --vp-c-brand-soft: rgba(129, 140, 248, 0.16);
+}
+
+/* Enhancements for tables */
+.vp-doc table {
+  display: table;
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+.vp-doc th, .vp-doc td {
+  border: 1px solid var(--vp-c-divider);
+  padding: 12px 16px;
+  text-align: left;
+}
+
+.vp-doc th {
+  background-color: var(--vp-c-bg-soft);
+  font-weight: 600;
+}
+
+/* Card hover animation */
+.nav-card {
+  transition: all 0.25s ease-in-out !important;
+}
+
+.nav-card:hover {
+  transform: translateY(-3px) !important;
+  box-shadow: 0 8px 24px rgba(99, 102, 241, 0.15) !important;
+  border-color: var(--vp-c-brand-1) !important;
+}

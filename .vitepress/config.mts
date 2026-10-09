@@ -4,6 +4,7 @@ export default defineConfig({
   title: '机场专线云',
   description: '2026 稳定机场推荐、高速 IPLC 专线测评与科学上网技术指南',
   lang: 'zh-CN',
+  base: '/',
   cleanUrls: true,
   ignoreDeadLinks: true,
   themeConfig: {
