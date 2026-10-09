@@ -6,6 +6,15 @@ export default defineConfig({
   lang: 'zh-CN',
   base: '/',
   cleanUrls: false,
+  // These routes are maintained as native HTML files in docs/public.
+  // Exclude the legacy Markdown copies so VitePress does not overwrite them.
+  srcExclude: [
+    'articles.md',
+    'promos.md',
+    'faq.md',
+    'status-monitor.md',
+    'toolbox.md'
+  ],
   ignoreDeadLinks: true,
   themeConfig: {
     logo: '/images/logo.png',
