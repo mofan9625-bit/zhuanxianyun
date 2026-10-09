@@ -8,7 +8,7 @@ export default defineConfig({
   cleanUrls: true,
   ignoreDeadLinks: true,
   themeConfig: {
-    logo: '/images/logo.png',
+    logo: { src: '/images/logo.png', alt: '机场专线云 Logo' },
     nav: [
       { text: '首页', link: '/', target: '_self' },
       { text: '推荐榜单', link: '/#ranking', target: '_self' },
