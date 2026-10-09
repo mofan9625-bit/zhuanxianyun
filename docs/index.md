@@ -11,7 +11,7 @@ hero:
       link: /#recommendations
     - theme: alt
       text: 📜 信任与评测方法论
-      link: /about/
+      link: /about/index.html
 
 features:
   - title: 🎯 100% 自费匿名实测
@@ -59,9 +59,9 @@ features:
 
 ## 🔗 深度阅读与知识库导航
 
-* 📖 [一元机场为什么不能用？低价套餐失效、拥塞与风险完整分析](/article-one-yuan-airport-why-not-working)
-* 📖 [免费机场为什么不建议使用？隐私、安全与稳定性风险指南](/article-free-airport-not-recommended)
-* 📖 [云界线机场 2026 晚高峰测速与专线体验报告](/article-yunjiexian-2026-review)
-* 💡 [IPLC/IEPL 专线、BGP 中转与直连线路有什么区别？](/article-iplc-iepl-bgp-direct)
-* 🛠️ [Clash / Sing-box / Shadowsocks 客户端下载与配置教程](/toolbox)
-* 📜 [E-E-A-T 权威信任体系与评测方法论](/about/)
+* 📖 [一元机场为什么不能用？低价套餐失效、拥塞与风险完整分析](/article-one-yuan-airport-why-not-working.html)
+* 📖 [免费机场为什么不建议使用？隐私、安全与稳定性风险指南](/article-free-airport-not-recommended.html)
+* 📖 [云界线机场 2026 晚高峰测速与专线体验报告](/article-yunjiexian-2026-review.html)
+* 💡 [IPLC/IEPL 专线、BGP 中转与直连线路有什么区别？](/article-iplc-iepl-bgp-direct.html)
+* 🛠️ [Clash / Sing-box / Shadowsocks 客户端下载与配置教程](/toolbox.html)
+* 📜 [E-E-A-T 权威信任体系与评测方法论](/about/index.html)

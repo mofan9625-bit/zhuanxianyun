@@ -62,21 +62,21 @@ tags: [关于我们, 独立实测, 专线测评, E-E-A-T]
 为确保本站评测具备最高标准的可追溯性与 E-E-A-T 权威公信力，我们建立了完整的评测方法论、硬件基准及法律免责透明契约。请查阅以下直达指南：
 
 ::: tip 📑 方法论与合规体系直达入口
-- 📊 [**《评测方法与打分权重》**](/about/methodology)：查阅晚高峰抗压、真实专线判定、原生 IP 纯净度与一票否决黑名单准则。
-- 🖥️ [**《测速环境与硬件基准》**](/about/benchmarks)：了解双 2.5G 专用工控压测机、三大运营商千兆环境与 Docker 自动化测试链。
-- 📜 [**《完整免责声明与透明契约》**](/about/disclaimer)：阅读全自费独立测试承诺、推广返利隔离原则与技术学术研究边界。
+- 📊 [**《评测方法与打分权重》**](/about/methodology.html)：查阅晚高峰抗压、真实专线判定、原生 IP 纯净度与一票否决黑名单准则。
+- 🖥️ [**《测速环境与硬件基准》**](/about/benchmarks.html)：了解双 2.5G 专用工控压测机、三大运营商千兆环境与 Docker 自动化测试链。
+- 📜 [**《完整免责声明与透明契约》**](/about/disclaimer.html)：阅读全自费独立测试承诺、推广返利隔离原则与技术学术研究边界。
 :::
 
 <div class="card-grid">
-  <a href="/about/methodology" class="nav-card">
+  <a href="/about/methodology.html" class="nav-card">
     <h3>📊 评测方法与打分权重</h3>
     <p>查阅晚高峰抗压、真实专线判定、原生 IP 纯净度与一票否决黑名单准则。</p>
   </a>
-  <a href="/about/benchmarks" class="nav-card">
+  <a href="/about/benchmarks.html" class="nav-card">
     <h3>🖥️ 测速环境与硬件基准</h3>
     <p>了解双 2.5G 专用工控压测机、三大运营商千兆环境与 Docker 自动化测试链。</p>
   </a>
-  <a href="/about/disclaimer" class="nav-card">
+  <a href="/about/disclaimer.html" class="nav-card">
     <h3>📜 完整免责声明与透明契约</h3>
     <p>阅读全自费独立测试承诺、推广返利隔离原则与技术学术研究边界。</p>
   </a>
