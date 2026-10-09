@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 🚀 查看推荐对比榜单
-      link: /#recommendations
+      link: /#ranking
     - theme: alt
       text: 📜 信任与评测方法论
       link: /about/index.html
@@ -22,7 +22,7 @@ features:
     details: 24 小时探针监控，一旦发现恶意超售、群组禁言或跑路苗头拉黑下架。
 ---
 
-# 🚀 2026 核心稳定机场精选对比表 (TOP 6) {#recommendations}
+# 🚀 2026 核心稳定机场精选对比表 (TOP 6) {#ranking}
 
 我们对市面上主流专线机场进行了长达 30 天的追踪与晚高峰 (20:00 - 23:00) 压测，精选出以下 6 家综合表现最优秀的高速机场：
 

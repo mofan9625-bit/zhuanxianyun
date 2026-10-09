@@ -5,28 +5,17 @@ export default defineConfig({
   description: '2026 稳定机场推荐、高速 IPLC 专线测评与科学上网技术指南',
   lang: 'zh-CN',
   base: '/',
-  cleanUrls: false,
-  // These routes are maintained as native HTML files in docs/public.
-  // Exclude the legacy Markdown copies so VitePress does not overwrite them.
-  srcExclude: [
-    'articles.md',
-    'promos.md',
-    'faq.md',
-    'status-monitor.md',
-    'toolbox.md'
-  ],
+  cleanUrls: true,
   ignoreDeadLinks: true,
   themeConfig: {
     logo: '/images/logo.png',
     nav: [
       { text: '首页', link: '/' },
-      { text: '推荐榜单', link: '/#recommendations' },
-      { text: '知识库', link: '/articles.html' },
-      { text: '福利优惠', link: '/promos.html' },
-      { text: '跑路避坑监控', link: '/status-monitor.html' },
-      { text: '知识问答 FAQ', link: '/faq.html' },
-      { text: '客户端工具', link: '/toolbox.html' },
-      { text: '关于我们', link: '/about/index.html' }
+      { text: '推荐榜单', link: '/#ranking' },
+      { text: '知识库', link: '/articles' },
+      { text: '福利优惠', link: '/promos' },
+      { text: '知识问答 FAQ', link: '/faq' },
+      { text: '关于我们', link: '/about/' }
     ],
     sidebar: {
       '/about/': [
