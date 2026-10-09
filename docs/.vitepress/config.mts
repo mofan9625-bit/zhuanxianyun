@@ -10,11 +10,13 @@ export default defineConfig({
   themeConfig: {
     logo: '/images/logo.png',
     nav: [
-      { text: '首页', link: '/' },
-      { text: '推荐榜单', link: '/#ranking' },
-      { text: '知识库', link: '/articles' },
-      { text: '福利优惠', link: '/promos' },
-      { text: '知识问答 FAQ', link: '/faq' },
+      { text: '首页', link: '/', target: '_self' },
+      { text: '推荐榜单', link: '/#ranking', target: '_self' },
+      { text: '知识库', link: '/articles', target: '_self' },
+      { text: '福利优惠', link: '/promos', target: '_self' },
+      { text: '跑路避坑监控', link: '/status-monitor', target: '_self' },
+      { text: '知识问答 FAQ', link: '/faq', target: '_self' },
+      { text: '客户端工具', link: '/toolbox', target: '_self' },
       { text: '关于我们', link: '/about/' }
     ],
     sidebar: {
