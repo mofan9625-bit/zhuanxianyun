@@ -10,6 +10,7 @@ export default defineConfig({
   themeConfig: {
     logo: '/images/logo.png',
     nav: [
+      { text: '首页', link: '/' },
       { text: '推荐榜单', link: '/#recommendations' },
       { text: '知识库', link: '/articles' },
       { text: '福利优惠', link: '/promos' },
