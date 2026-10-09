@@ -14,6 +14,36 @@
   --vp-c-brand-soft: rgba(129, 140, 248, 0.16);
 }
 
+/* Enlarge and vertically align the homepage hero artwork on desktop. */
+@media (min-width: 960px) {
+  .VPHomeHero .container {
+    max-width: 1280px;
+    align-items: stretch;
+  }
+
+  .VPHomeHero .main {
+    max-width: 640px;
+  }
+
+  .VPHomeHero .image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .VPHomeHero .image-container {
+    transform: none;
+  }
+
+  .VPHomeHero .image-src {
+    width: min(100%, 560px);
+    max-width: 560px !important;
+    max-height: none !important;
+    height: auto;
+    border-radius: 8px;
+  }
+}
+
 /* Enhancements for tables */
 .vp-doc table {
   display: table !important;
