@@ -4,3 +4,7 @@ scratch/
 .DS_Store
 Thumbs.db
 node_modules/
+.vitepress/cache/
+.vitepress/dist/
+docs/.vitepress/cache/
+docs/.vitepress/dist/
