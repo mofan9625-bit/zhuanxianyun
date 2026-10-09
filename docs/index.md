@@ -5,6 +5,9 @@ hero:
   name: "机场专线云"
   text: "2026 稳定机场推荐与高速专线深度评测"
   tagline: "全自费独立测试 · 晚高峰 20:00 压测 · IPLC/IEPL 物理专线 · 跑路避坑预警"
+  image:
+    src: /images/hero_banner.jpg
+    alt: 机场专线网络性能实测与云端监控
   actions:
     - theme: brand
       text: 🚀 查看推荐对比榜单
