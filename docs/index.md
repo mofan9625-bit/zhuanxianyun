@@ -1,16 +1,28 @@
 ---
-title: "2026 稳定机场推荐与专线测评 - 机场专线云"
-description: "机场专线云提供2026年最新客观、自费实测的科学上网机场推荐榜单。涵盖IEPL/IPLC专线、BGP中转、性价比机场、ChatGPT/Netflix解锁测评与跑路避坑预警。"
+layout: home
+
+hero:
+  name: "机场专线云"
+  text: "2026 稳定机场推荐与高速专线深度评测"
+  tagline: "全自费独立测试 · 晚高峰 20:00 压测 · IPLC/IEPL 物理专线 · 跑路避坑预警"
+  actions:
+    - theme: brand
+      text: 🚀 查看推荐对比榜单
+      link: /#recommendations
+    - theme: alt
+      text: 📜 信任与评测方法论
+      link: /about/
+
+features:
+  - title: 🎯 100% 自费匿名实测
+    details: 拒绝商家付费洗白与定制测试账号，所有节点均自费匿名订阅测试。
+  - title: 📈 晚高峰压测
+    details: 聚焦每日 20:00~23:00 骨干网拥堵时段实际丢包率与 YouTube 4K/8K 缓冲速率。
+  - title: 🚨 跑路避坑监控
+    details: 24 小时探针监控，一旦发现恶意超售、群组禁言或跑路苗头拉黑下架。
 ---
 
-# 🚀 2026 稳定机场推荐与高速专线深度评测榜单
-
-> 🌐 **主站官方入口**：[机场专线云 (jichangzhuanxianyun.com)](https://jichangzhuanxianyun.com)  
-> 🏷️ **2026 行业核心搜索词**：`2026机场推荐` · `IPLC专线机场` · `科学上网梯子` · `Clash/Sing-box 节点订阅` · `ChatGPT 4o / Claude 3.5 纯净家宽IP` · `4K/8K 影音流媒体解锁` · `外服游戏 FullCone 电竞加速` · `晚高峰压测与跑路避坑榜`
-
----
-
-## 📊 2026 核心稳定机场精选对比表 (TOP 6) {#recommendations}
+# 🚀 2026 核心稳定机场精选对比表 (TOP 6) {#recommendations}
 
 我们对市面上主流专线机场进行了长达 30 天的追踪与晚高峰 (20:00 - 23:00) 压测，精选出以下 6 家综合表现最优秀的高速机场：
 
