@@ -2,11 +2,30 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: '机场专线云',
-  description: '2026 稳定机场推荐、高速 IPLC 专线测评与科学上网技术指南',
+  description: '机场专线云精选2026高性价比稳定专线机场推荐榜单。基于全自费晚高峰真实网络压测，提供按需计费与周期订阅深度横评，涵盖IPLC物理专线、流媒体解锁实测与跑路避坑预警，为您呈现透明可信的性价比测速与选购指南。',
   lang: 'zh-CN',
   base: '/',
   cleanUrls: true,
   ignoreDeadLinks: true,
+  sitemap: {
+    hostname: 'https://jichangzhuanxianyun.com'
+  },
+  transformPageData(pageData) {
+    pageData.frontmatter.head ??= []
+    const hasCanonical = pageData.frontmatter.head.some(
+      (item: any) => item[0] === 'link' && item[1]?.rel === 'canonical'
+    )
+    if (!hasCanonical) {
+      const cleanPath = pageData.relativePath
+        .replace(/(^|\/)index\.md$/, '$1')
+        .replace(/\.md$/, '')
+      const canonicalUrl = `https://jichangzhuanxianyun.com/${cleanPath}`
+      pageData.frontmatter.head.push([
+        'link',
+        { rel: 'canonical', href: canonicalUrl }
+      ])
+    }
+  },
   themeConfig: {
     logo: { src: '/images/logo.png', alt: '机场专线云 Logo' },
     nav: [
