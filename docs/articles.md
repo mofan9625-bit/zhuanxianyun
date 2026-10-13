@@ -52,6 +52,12 @@ description: "机场专线云官方知识库：涵盖 2026 最新 IPLC 专线科
 - 🎮 [**神行加速 2026 晚高峰测速与 FullCone 游戏加速深度体验报告**](/article-shenxing-2026-review)  
   BGP 高速中转 + 电竞级 FullCone NAT 映射，Steam/PS5/Xbox 联机 0 丢包体验分析。
 
+- 🍈 [**榴莲云 2026 深度评测：750GB 大流量套餐折算每 GB 多少钱？大包长期付性价比与避坑指南**](/article-liulian-2026-review)  
+  750GB/月搬迁王超大流量包与低至 7 折长周期让利，单节点 2.5Gbps 大带宽与 4K/8K 晚高峰实测。
+
+- ⚡ [**闪电鼠 2026 怎么样？¥22/月起步 1x 无倍率溢价实测：学生党与原生 IP 解锁避坑指南**](/article-shandianshu-2026-review)  
+  全节点 1x 真实倍率 IEPL 专线，不限并发设备数与宿舍合租省钱方案，ChatGPT/Claude/TikTok 原生 IP 解锁。
+
 ---
 
 ## 🛠️ 客户端配置与使用指南
