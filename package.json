@@ -5,10 +5,11 @@
   "type": "module",
   "scripts": {
     "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
+    "docs:build": "vitepress build docs && node scripts/generate-sitemap.cjs",
     "docs:preview": "vitepress preview docs",
     "dev": "vitepress dev docs",
-    "build": "vitepress build docs"
+    "build": "vitepress build docs && node scripts/generate-sitemap.cjs",
+    "generate-sitemap": "node scripts/generate-sitemap.cjs"
   },
   "devDependencies": {
     "typescript": "^5.6.3",

@@ -6,7 +6,7 @@ export default defineConfig({
   lang: 'zh-CN',
   base: '/',
   cleanUrls: true,
-  ignoreDeadLinks: true,
+  ignoreDeadLinks: false,
   sitemap: {
     hostname: 'https://jichangzhuanxianyun.com'
   },
@@ -43,16 +43,16 @@ export default defineConfig({
         {
           text: '关于与信任体系',
           items: [
-            { text: '关于我们', link: '/about/index.html' },
-            { text: '免责声明与推广披露', link: '/about/disclaimer.html' },
-            { text: '评测标准与评分权重', link: '/about/methodology.html' },
-            { text: '测速基准与环境规范', link: '/about/benchmarks.html' }
+            { text: '关于我们', link: '/about/' },
+            { text: '免责声明与推广披露', link: '/about/disclaimer' },
+            { text: '评测标准与评分权重', link: '/about/methodology' },
+            { text: '测速基准与环境规范', link: '/about/benchmarks' }
           ]
         }
       ]
     },
     footer: {
-      message: '<a href="/about/disclaimer.html">免责声明与推广披露</a> ｜ <a href="/about/methodology.html">评测方法论</a> ｜ <a href="/about/benchmarks.html">测速基准说明</a>',
+      message: '<a href="/about/disclaimer">免责声明与推广披露</a> ｜ <a href="/about/methodology">评测方法论</a> ｜ <a href="/about/benchmarks">测速基准说明</a>',
       copyright: '© 2026 机场专线云 (jichangzhuanxianyun.com) - 专注于 2026 稳定机场推荐与高速专线测评'
     }
   }

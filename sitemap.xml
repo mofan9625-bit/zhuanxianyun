@@ -2,65 +2,146 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jichangzhuanxianyun.com/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://jichangzhuanxianyun.com/index.html</loc>
-    <lastmod>2026-09-30</lastmod>
-    <changefreq>daily</changefreq>
+    <loc>https://jichangzhuanxianyun.com/articles</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://jichangzhuanxianyun.com/promos.html</loc>
-    <lastmod>2026-09-29</lastmod>
+    <loc>https://jichangzhuanxianyun.com/article-chatgpt-access-denied</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jichangzhuanxianyun.com/article-chatgpt-not-opening-2026</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jichangzhuanxianyun.com/article-clash-2026-setup</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jichangzhuanxianyun.com/article-dalaoyun-2026-review</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jichangzhuanxianyun.com/article-free-airport-not-recommended</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jichangzhuanxianyun.com/article-google-not-opening-2026</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jichangzhuanxianyun.com/article-huanqiuti-2026-review</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jichangzhuanxianyun.com/article-iplc-iepl-bgp-direct</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jichangzhuanxianyun.com/article-liulian-2026-review</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jichangzhuanxianyun.com/article-one-yuan-airport-why-not-working</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jichangzhuanxianyun.com/article-overseas-sites-not-opening-2026</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jichangzhuanxianyun.com/article-shandianshu-2026-review</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jichangzhuanxianyun.com/article-shenxing-2026-review</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jichangzhuanxianyun.com/article-yunjiexian-2026-review</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jichangzhuanxianyun.com/faq</loc>
+    <lastmod>2026-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jichangzhuanxianyun.com/toolbox.html</loc>
-    <lastmod>2026-09-29</lastmod>
+    <loc>https://jichangzhuanxianyun.com/promos</loc>
+    <lastmod>2026-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jichangzhuanxianyun.com/status-monitor.html</loc>
-    <lastmod>2026-09-29</lastmod>
+    <loc>https://jichangzhuanxianyun.com/status-monitor</loc>
+    <lastmod>2026-10-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jichangzhuanxianyun.com/article-iplc-iepl-bgp-direct.html</loc>
-    <lastmod>2026-09-29</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://jichangzhuanxianyun.com/toolbox</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jichangzhuanxianyun.com/article-chatgpt-access-denied.html</loc>
-    <lastmod>2026-09-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jichangzhuanxianyun.com/faq.html</loc>
-    <lastmod>2026-09-29</lastmod>
+    <loc>https://jichangzhuanxianyun.com/about/</loc>
+    <lastmod>2026-10-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://jichangzhuanxianyun.com/about.html</loc>
-    <lastmod>2026-09-29</lastmod>
+    <loc>https://jichangzhuanxianyun.com/about/benchmarks</loc>
+    <lastmod>2026-10-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
-  <url><loc>https://jichangzhuanxianyun.com/article-yunjiexian-2026-review.html</loc><lastmod>2026-09-29</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://jichangzhuanxianyun.com/article-shenxing-2026-review.html</loc><lastmod>2026-09-29</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://jichangzhuanxianyun.com/articles.html</loc><lastmod>2026-10-03</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://jichangzhuanxianyun.com/article-clash-2026-setup.html</loc><lastmod>2026-09-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://jichangzhuanxianyun.com/article-chatgpt-not-opening-2026.html</loc><lastmod>2026-10-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://jichangzhuanxianyun.com/article-google-not-opening-2026.html</loc><lastmod>2026-10-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://jichangzhuanxianyun.com/article-overseas-sites-not-opening-2026.html</loc><lastmod>2026-10-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://jichangzhuanxianyun.com/article-one-yuan-airport-why-not-working.html</loc><lastmod>2026-10-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://jichangzhuanxianyun.com/article-free-airport-not-recommended.html</loc><lastmod>2026-10-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url>
+    <loc>https://jichangzhuanxianyun.com/about/disclaimer</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://jichangzhuanxianyun.com/about/methodology</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
