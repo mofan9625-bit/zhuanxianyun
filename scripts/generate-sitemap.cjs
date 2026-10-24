@@ -7,6 +7,7 @@ const hostname = 'https://jichangzhuanxianyun.com';
 // 页面配置表：定义优先级与更新频率
 const urlConfig = {
   '/article-2026-airport-selection-guide': { priority: '0.9', changefreq: 'weekly' },
+  '/article-pay-as-you-go-airport-guide': { priority: '0.9', changefreq: 'weekly' },
   '/': { priority: '1.0', changefreq: 'daily' },
   '/articles': { priority: '0.9', changefreq: 'weekly' },
   '/promos': { priority: '0.8', changefreq: 'weekly' },
