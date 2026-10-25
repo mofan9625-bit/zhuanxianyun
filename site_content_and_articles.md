@@ -10,7 +10,7 @@
 
 | 机场名称 | 线路类型 | 月付起步价 | 月流量配额 | 流媒体/AI 解锁情况 | 推荐指数 | 优势短评 | 官网入口 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **第一名：云界线 (Yunjiexian)** | 全节点 1x IPLC 专线 | ￥22.00 (折合￥8/月) | 150 GB | Netflix / Disney+ / ChatGPT 4o / Claude 原生全解 | ★★★★★ (9.9) | 全节点 1x 真实倍率 IPLC 专线，不限并发设备与网速 | [直达官网](https://9625mofan01.yunjiexianaff.com/#/?code=OOYhSj0L) |
+| **第一名：云界线 (Yunjiexian)** | 全节点 1x IPLC 专线 | ￥22.00 (折合￥8/月) | 150 GB | Netflix / Disney+ / ChatGPT 4o / Claude 原生全解 | ★★★★★ (9.9) | 全节点 1x 真实倍率 IPLC 专线，不限并发设备与网速 | <a href="/go.html?id=yunjiexian" target="_blank" rel="nofollow sponsored noopener noreferrer">直达官网</a> |
 | **第二名：大佬云 (DaLao Cloud)** | 全节点 1x IPLC 专线 | ￥23.00 (折合￥8/月) | 130 GB | Netflix / Disney+ / ChatGPT / Claude 原生解封 | ★★★★★ (9.7) | 全节点 1x 真实倍率 IPLC 专线，单节点最高 2.5Gbps，不限设备数 | [直达官网]([此处填写你的AFF推广链接]) |
 | **第三名：环球梯 (HuanQiu Ti)** | IPLC 专线 + Hysteria2 | ￥23.00 (折合￥8/月) | 120 GB | 美/日/港/台主流流媒体 & AI服务全解锁 | ★★★★★ (9.5) | Hysteria2协议+晚高峰优化，清晰标注3~10台设备并发上限 | [直达官网]([此处填写你的AFF推广链接]) |
 | **第四名：榴莲云 (LiuLian Cloud)** | 全节点 1x IPLC 专线 | ￥24.00 (折合￥8/月) | 140 GB | Netflix / Disney+ / ChatGPT / Claude 原生解封 | ★★★★☆ (9.3) | 全节点 1x 真实倍率 IPLC 专线，单节点2.5Gbps，长周期享7折大优 | [直达官网]([此处填写你的AFF推广链接]) |
@@ -258,7 +258,7 @@
 
 ## 模块六：优惠活动与专属福利专区
 
-- **云界线 (Yunjiexian)**：IPLC 专线专属优惠码 `yjx888`（全场通用） | [直达官网](https://9625mofan01.yunjiexianaff.com/#/?code=OOYhSj0L)
+- **云界线 (Yunjiexian)**：IPLC 专线专属优惠码 `yjx888`（全场通用） | <a href="/go.html?id=yunjiexian" target="_blank" rel="nofollow sponsored noopener noreferrer">直达官网</a>
 - **大佬云 (DaLao Cloud)**：IEPL 专线专属优惠码 `dly88`（适用于月付及季付） | [直达官网]([此处填写你的AFF推广链接])
 - **环球梯 (HuanQiu Ti)**：Hysteria2 专属福利优惠码 `HQ66`（支持折上折） | [直达官网]([此处填写你的AFF推广链接])
 - **榴莲云 (LiuLian Cloud)**：大流量专区优惠码 `1188`（180G 大流量套餐立减） | [直达官网]([此处填写你的AFF推广链接])
@@ -269,10 +269,10 @@
 
 ## 模块七：细分场景专用推荐 (长尾关键词 SEO)
 
-1. **AI 大模型办公专用**：挑选纯净 IP、免验证码节点，完美适配 ChatGPT 4o 与 Claude 3.5。 -> [获取 AI 专用线路](https://9625mofan01.yunjiexianaff.com/#/?code=OOYhSj0L)
-2. **跨境电商与外贸**：提供长期固定 IP 与原生 IP，有效防止亚马逊与 TikTok 账号关联封禁。 -> [获取外贸固定 IP](https://9625mofan01.yunjiexianaff.com/#/?code=OOYhSj0L)
-3. **按量付费 / 永不到期**：适合轻度备用首选，一次购买流量永久有效。 -> [选购按量付费套餐](https://9625mofan01.yunjiexianaff.com/#/?code=OOYhSj0L)
-4. **游戏主机与加速**：具备 FullCone NAT 类型与超低丢包率，完美支持外服联机。 -> [查看游戏加速节点](https://9625mofan01.yunjiexianaff.com/#/?code=OOYhSj0L)
+1. **AI 大模型办公专用**：挑选纯净 IP、免验证码节点，完美适配 ChatGPT 4o 与 Claude 3.5。 -> <a href="/go.html?id=yunjiexian" target="_blank" rel="nofollow sponsored noopener noreferrer">获取 AI 专用线路</a>
+2. **跨境电商与外贸**：提供长期固定 IP 与原生 IP，有效防止亚马逊与 TikTok 账号关联封禁。 -> <a href="/go.html?id=yunjiexian" target="_blank" rel="nofollow sponsored noopener noreferrer">获取外贸固定 IP</a>
+3. **按量付费 / 永不到期**：适合轻度备用首选，一次购买流量永久有效。 -> <a href="/go.html?id=yunjiexian" target="_blank" rel="nofollow sponsored noopener noreferrer">选购按量付费套餐</a>
+4. **游戏主机与加速**：具备 FullCone NAT 类型与超低丢包率，完美支持外服联机。 -> <a href="/go.html?id=yunjiexian" target="_blank" rel="nofollow sponsored noopener noreferrer">查看游戏加速节点</a>
 
 ---
 

@@ -21,4 +21,4 @@ description: "深度剖析 1 元机场、低价廉价机场的超售套路、隐
 ---
 
 ## 💡 选购建议
-建议坚持“月付”原则，选择具备真实 IPLC/IEPL 专线的优质服务商（如[云界线](https://9625mofan01.yunjiexianaff.com/#/?code=OOYhSj0L) 或 [大佬云](https://mofanvip01.dalaoyunaff.com/#/?code=QT2rqp5V)）。
+建议坚持“月付”原则，选择具备真实 IPLC/IEPL 专线的优质服务商（如<a href="/go.html?id=yunjiexian" target="_blank" rel="nofollow sponsored noopener noreferrer">云界线</a> 或 <a href="/go.html?id=dalaoyun" target="_blank" rel="nofollow sponsored noopener noreferrer">大佬云</a>）。

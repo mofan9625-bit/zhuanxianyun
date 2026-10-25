@@ -27,7 +27,7 @@ tags: [2026机场推荐, 平价专线, 闪电鼠评测, 便宜专线机场, 学�
   4. **学生党月付低门槛**：月付 ￥22 即可上车 120GB 独立专线，每天花费不到 ￥0.74。
 - **潜在不足**：限时钜惠 ￥96/年 特惠包单月配额 60GB（适合轻度自用，合租需选 250G 疾速版以上）；极端冷门地区节点不如大型老牌机场丰富。
 - **选购口诀**：**“自用轻度认准 ￥8/月年付包，合租追剧选 ￥40/月疾速版；避开野鸡 1 元机场，认准 1x 真实倍率”**。
-- 🔗 **官网直达**：<a href="https://mofanvip01.shandianshuaff.com/#/?code=a3GAQAXg" target="_blank" rel="nofollow sponsored noopener noreferrer" class="aff-btn">👉 点击进入闪电鼠官方通道查看最新活动</a>
+- 🔗 **官网直达**：<a href="/go.html?id=shandianshu" target="_blank" rel="nofollow sponsored noopener noreferrer" class="aff-btn">👉 点击进入闪电鼠官方通道查看最新活动</a>
 :::
 
 ---
@@ -128,7 +128,7 @@ tags: [2026机场推荐, 平价专线, 闪电鼠评测, 便宜专线机场, 学�
 请认准官方正规授权渠道，享受全节点 1x 真实倍率与原生 IP 极速体验。
 
 <div style="text-align: center; margin: 30px 0;">
-  <a href="https://mofanvip01.shandianshuaff.com/#/?code=a3GAQAXg" target="_blank" rel="nofollow sponsored noopener noreferrer" class="aff-btn" style="padding: 14px 36px; font-size: 1.05rem; text-decoration: none;">
+  <a href="/go.html?id=shandianshu" target="_blank" rel="nofollow sponsored noopener noreferrer" class="aff-btn" style="padding: 14px 36px; font-size: 1.05rem; text-decoration: none;">
     👉 点击直达闪电鼠官方站点选购全节点 1x IEPL 专线套餐
   </a>
 </div>

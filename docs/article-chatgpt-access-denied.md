@@ -23,7 +23,7 @@ description: "排错指南：解决 OpenAI ChatGPT 访问时提示 1020 Access D
 ## 🛠️ 二、4 步彻底解决排错流程
 
 ### 1. 切换至“原生家宽 IP / AI 解锁专用节点”
-在客户端节点列表中，选择带有 `原生 IP`、`解锁` 或 `ChatGPT 专用` 标识的节点（推荐选择[云界线](https://9625mofan01.yunjiexianaff.com/#/?code=OOYhSj0L) 或 [大佬云](https://mofanvip01.dalaoyunaff.com/#/?code=QT2rqp5V) 的美/日/港/台节点）。
+在客户端节点列表中，选择带有 `原生 IP`、`解锁` 或 `ChatGPT 专用` 标识的节点（推荐选择<a href="/go.html?id=yunjiexian" target="_blank" rel="nofollow sponsored noopener noreferrer">云界线</a> 或 <a href="/go.html?id=dalaoyun" target="_blank" rel="nofollow sponsored noopener noreferrer">大佬云</a> 的美/日/港/台节点）。
 
 ### 2. 清理浏览器 Cookie 与 LocalStorage
 - 在 Chrome / Edge 浏览器按 `F12` 打开开发者工具。

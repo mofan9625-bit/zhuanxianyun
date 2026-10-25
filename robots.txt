@@ -1,4 +1,7 @@
 User-agent: *
+Disallow: /go/
+Disallow: /go.html
+Disallow: /go
 Allow: /
 
 Sitemap: https://jichangzhuanxianyun.com/sitemap.xml

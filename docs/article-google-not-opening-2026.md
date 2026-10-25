@@ -11,7 +11,7 @@ description: "解决 Google 搜索频繁弹出“异常流量”人机验证码�
 
 1. **频发人机验证 (reCAPTCHA)**  
    - 原因：节点被大量用户共享，IP 被 Google 认定为自动化爬虫。
-   - 解决：选择高纯度 1x 倍率 IPLC 专线节点（如[云界线](https://9625mofan01.yunjiexianaff.com/#/?code=OOYhSj0L)）。
+   - 解决：选择高纯度 1x 倍率 IPLC 专线节点（如<a href="/go.html?id=yunjiexian" target="_blank" rel="nofollow sponsored noopener noreferrer">云界线</a>）。
 
 2. **提示 DNS_PROBE_FINISHED_NXDOMAIN**  
    - 原因：客户端 DNS 污染或未开启系统代理。

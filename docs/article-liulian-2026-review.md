@@ -27,7 +27,7 @@ tags: [2026机场推荐, 平价专线, 榴莲云评测, 便宜专线机场, 大�
   4. **无在线设备数量限制**：多台电脑、手机、平板与电视盒子同时在线不挤占连接数。
 - **潜在不足**：两年付方案虽然折后单价最低（享 7 折），但预付周期长，存在行业不可抗力风险；纯轻度文本用户买大流量包容易浪费过期。
 - **选购口诀**：**“轻度选年付特惠包，重度 4K 选 140G~750G 大包；切忌初次盲目冲两年付，先月付验机满意再升级”**。
-- 🔗 **官网直达**：<a href="https://mofan88.liulianyunaff.com/#/?code=ETsQBSuR" target="_blank" rel="nofollow sponsored noopener noreferrer" class="aff-btn">👉 点击进入榴莲云官方通道查看最新活动</a>
+- 🔗 **官网直达**：<a href="/go.html?id=liulian" target="_blank" rel="nofollow sponsored noopener noreferrer" class="aff-btn">👉 点击进入榴莲云官方通道查看最新活动</a>
 :::
 
 ---
@@ -125,7 +125,7 @@ tags: [2026机场推荐, 平价专线, 榴莲云评测, 便宜专线机场, 大�
 请认准官方正规渠道，购买前建议先选择月付验证本地网络，满意后再行续费。
 
 <div style="text-align: center; margin: 30px 0;">
-  <a href="https://mofan88.liulianyunaff.com/#/?code=ETsQBSuR" target="_blank" rel="nofollow sponsored noopener noreferrer" class="aff-btn" style="padding: 14px 36px; font-size: 1.05rem; text-decoration: none;">
+  <a href="/go.html?id=liulian" target="_blank" rel="nofollow sponsored noopener noreferrer" class="aff-btn" style="padding: 14px 36px; font-size: 1.05rem; text-decoration: none;">
     👉 点击直达榴莲云官方站点选购大流量 1x IPLC 专线套餐
   </a>
 </div>

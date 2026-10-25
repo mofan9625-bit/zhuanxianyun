@@ -66,7 +66,7 @@ description: "机场专线云客户端工具箱：涵盖 Windows、macOS、Andro
 ## 📖 快速上手配置教程
 
 1. **下载安装客户端**：根据您的操作系统下载对应的软件安装包。
-2. **复制机场订阅链接**：在您订阅的机场后台（如[云界线](https://9625mofan01.yunjiexianaff.com/#/?code=OOYhSj0L)）找到“一键导入”或“复制 Clash/Sing-box 订阅链接”。
+2. **复制机场订阅链接**：在您订阅的机场后台（如<a href="/go.html?id=yunjiexian" target="_blank" rel="nofollow sponsored noopener noreferrer">云界线</a>）找到“一键导入”或“复制 Clash/Sing-box 订阅链接”。
 3. **导入订阅并开启代理**：
    - 打开客户端，粘贴订阅链接并点击“更新/导入”。
    - 将代理模式切换为 **Rule / 规则模式**。
