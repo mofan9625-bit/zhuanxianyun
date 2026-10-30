@@ -44,7 +44,7 @@
   }
 }
 
-/* Enhancements for tables */
+/* Enhancements for tables with mobile overflow protection */
 .vp-doc table {
   display: table !important;
   width: 100% !important;
@@ -61,6 +61,41 @@
 .vp-doc th {
   background-color: var(--vp-c-bg-soft) !important;
   font-weight: 600 !important;
+}
+
+/* Ensure navbar logo is strictly contained across all viewport sizes */
+.VPNavBarTitle .logo,
+.VPImage.logo {
+  height: 32px !important;
+  width: auto !important;
+  max-width: 160px !important;
+  object-fit: contain !important;
+}
+
+/* Mobile specific layout safeguards */
+@media (max-width: 768px) {
+  .vp-doc table {
+    display: block !important;
+    overflow-x: auto !important;
+    white-space: nowrap !important;
+    max-width: 100% !important;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .vp-doc th, .vp-doc td {
+    padding: 8px 12px !important;
+    font-size: 0.85rem !important;
+  }
+
+  .vp-doc img {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+  .card-grid {
+    grid-template-columns: 1fr !important;
+    gap: 14px !important;
+  }
 }
 
 /* Card Grid Styles */

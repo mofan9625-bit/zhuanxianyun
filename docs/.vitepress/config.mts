@@ -10,6 +10,46 @@ export default defineConfig({
   sitemap: {
     hostname: 'https://jichangzhuanxianyun.com'
   },
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', href: '/images/logo.png' }],
+    ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0, viewport-fit=cover' }],
+    ['style', {}, `
+      /* Critical Inline CSS - 防止弱网首屏样式缺失与移动端排版撑爆 */
+      .visually-hidden {
+        position: absolute !important;
+        width: 1px !important;
+        height: 1px !important;
+        padding: 0 !important;
+        margin: -1px !important;
+        overflow: hidden !important;
+        clip: rect(0, 0, 0, 0) !important;
+        white-space: nowrap !important;
+        border: 0 !important;
+      }
+      .VPNavBarTitle .logo,
+      .VPImage.logo {
+        height: 32px !important;
+        width: auto !important;
+        max-width: 160px !important;
+        object-fit: contain !important;
+        display: inline-block !important;
+      }
+      img {
+        max-width: 100% !important;
+        height: auto !important;
+      }
+      @media (max-width: 768px) {
+        .VPNavBarMenu.menu {
+          overflow-x: auto;
+          white-space: nowrap;
+        }
+        .VPNavBarAppearance.appearance,
+        .VPFlyout.extra {
+          display: none !important;
+        }
+      }
+    `]
+  ],
   transformPageData(pageData) {
     pageData.frontmatter.head ??= []
     const hasCanonical = pageData.frontmatter.head.some(
