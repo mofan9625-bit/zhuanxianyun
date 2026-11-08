@@ -47,15 +47,15 @@ features:
     details: 24 小时探针监控，一旦发现恶意超售、群组禁言或跑路苗头拉黑下架。
 ---
 
-## 🚀 2026 高性价比专线机场推荐与资费横评榜 (TOP 6) {#ranking}
+## 🚀 2026 高性价比专线机场推荐与资费横评榜 (TOP 10) {#ranking}
 
-针对晚高峰网络表现与实际套餐成本进行综合测算，精选 6 家兼顾专线稳定性与高质价比的机场推荐。
+针对晚高峰网络表现与实际套餐成本进行综合测算，精选 10 家兼顾专线稳定性与高质价比的机场推荐。
 
 > 💡 **2026 高性价比专线 30 秒省钱决策速查**：
-> - 🎒 **百元内全年预算 / 学生党平价专线**：<a href="/go.html?id=huanqiuti" target="_blank" rel="nofollow sponsored noopener noreferrer">环球梯 (年付￥96 折合￥8/月)</a> 或 <a href="/go.html?id=yunjiexian" target="_blank" rel="nofollow sponsored noopener noreferrer">云界线 (年付特惠折合￥8/月)</a> —— 极低门槛告别公网挤压。
+> - 🎒 **百元内全年预算 / 学生党平价专线**：<a href="/go.html?id=sujie" target="_blank" rel="nofollow sponsored noopener noreferrer">速界 (年付￥90 折合￥7.5/月)</a>、<a href="/go.html?id=kexin" target="_blank" rel="nofollow sponsored noopener noreferrer">可信云 (年付￥96 折合￥8/月)</a>、<a href="/go.html?id=bianyuan" target="_blank" rel="nofollow sponsored noopener noreferrer">边缘节点 (年付￥98)</a>、<a href="/go.html?id=huanqiuti" target="_blank" rel="nofollow sponsored noopener noreferrer">环球梯 (年付￥96)</a> 或 <a href="/go.html?id=yunjiexian" target="_blank" rel="nofollow sponsored noopener noreferrer">云界线</a> —— 极低门槛告别公网挤压。
 > - 👥 **室友拼车 / 多设备不限并发合租**：<a href="/go.html?id=dalaoyun" target="_blank" rel="nofollow sponsored noopener noreferrer">大佬云 (多设备合租人均￥10起)</a> 或 <a href="/go.html?id=shandianshu" target="_blank" rel="nofollow sponsored noopener noreferrer">闪电鼠 (全节点1x不限设备)</a> —— 均摊成本直接腰斩。
 > - 🎬 **4K/8K 蓝光追剧 / 超大流量性价比**：<a href="/go.html?id=liulian" target="_blank" rel="nofollow sponsored noopener noreferrer">榴莲云 (750GB搬迁大包低至7折)</a> —— 每 GB 单价打破专线底线。
-> - ⏱️ **轻度查资料 / 备用防断网不浪费**：[按量计费不限时专线指南](/article-pay-as-you-go-airport-guide) —— 永不过期拒绝月度清零。
+> - ⏱️ **轻度查资料 / 备用防断网不浪费**：<a href="/go.html?id=kuaili" target="_blank" rel="nofollow sponsored noopener noreferrer">快狸 (月付￥15小包)</a> 或 [按量计费不限时专线指南](/article-pay-as-you-go-airport-guide) —— 永不过期拒绝月度清零。
 
 | 排名 | 机场名称 | 综合评分 | 线路类型 / 架构 | 起步价格与省钱门槛 | 核心优势与特色 | 官网与测评双通道 |
 | :---: | :--- | :---: | :--- | :--- | :--- | :---: |
@@ -65,6 +65,10 @@ features:
 | **04** | **<a href="/go.html?id=liulian" target="_blank" rel="nofollow sponsored noopener noreferrer">榴莲云 (LiuLian Cloud)</a>** | **9.3 ★★★★☆** | 全节点 1x IPLC 专线 | ￥24.00/月 (大包折后低至7折) | 海量搬迁大流量套餐 (750GB/月)，长周期订阅折扣低至 7 折，单节点 2.5Gbps 物理带宽。 | <a href="/go.html?id=liulian" target="_blank" rel="nofollow sponsored noopener noreferrer">👉 官网直达</a><br>[📝 深度评测](/article-liulian-2026-review) |
 | **05** | **<a href="/go.html?id=shenxing" target="_blank" rel="nofollow sponsored noopener noreferrer">神行加速 (ShenXing Express)</a>** | **9.1 ★★★★☆** | BGP中转 + FullCone NAT | ￥18.00/月 (特惠低至￥1.1/天) | 开放 **FullCone NAT 电竞级** 映射，专为 Steam/PS5/Xbox 外服游戏与 4K 追剧优化。 | <a href="/go.html?id=shenxing" target="_blank" rel="nofollow sponsored noopener noreferrer">👉 官网直达</a><br>[📝 深度评测](/article-shenxing-2026-review) |
 | **06** | **<a href="/go.html?id=shandianshu" target="_blank" rel="nofollow sponsored noopener noreferrer">闪电鼠 (ShanDian Shu)</a>** | **9.1 ★★★★☆** | 全节点 1x IEPL 专线 | ￥22.00/月 (起步1x无倍率溢价) | 全节点 1x 倍率 IEPL 专线，不限并发设备数，原生 IP 全解，性价比极佳。 | <a href="/go.html?id=shandianshu" target="_blank" rel="nofollow sponsored noopener noreferrer">👉 官网直达</a><br>[📝 深度评测](/article-shandianshu-2026-review) |
+| **07** | **<a href="/go.html?id=kexin" target="_blank" rel="nofollow sponsored noopener noreferrer">可信云 (KeXin)</a>** | **9.0 ★★★★☆** | IPLC/IEPL 专线 (VLESS) | ￥15.00/月 (年费礼包￥96/年) | 2024 稳健专线，**新一代 VLESS 协议**低开销，月付 15 元 60GB 门槛低，年费礼包 96 元/年（60GB/月），专属优惠码 `kkk333`。 | <a href="/go.html?id=kexin" target="_blank" rel="nofollow sponsored noopener noreferrer">👉 官网直达</a> |
+| **08** | **<a href="/go.html?id=sujie" target="_blank" rel="nofollow sponsored noopener noreferrer">速界 (SuJie)</a>** | **9.0 ★★★★☆** | 纯内网 IEPL 专线 (VLESS) | ￥15.00/月 (特惠年付￥90/年) | 2024 纯内网 IEPL 物理专线，VLESS 极速协议，体验月付 15 元 50GB，年付仅 90 元/年（折合 ￥7.5/月 70GB/月），专属优惠码 `sss1111`。 | <a href="/go.html?id=sujie" target="_blank" rel="nofollow sponsored noopener noreferrer">👉 官网直达</a> |
+| **09** | **<a href="/go.html?id=bianyuan" target="_blank" rel="nofollow sponsored noopener noreferrer">边缘节点 (EdgeNova)</a>** | **8.9 ★★★★☆** | 原厂 IPLC 物理专线 (VLESS) | ￥15.00/月 (特惠年付￥98/年) | 2026 新晋高性价比专线，全 IPLC 物理专线架构，限时月付 15 元 50GB，标准 22 元 120GB，年付 98 元/年，专属优惠码 `xk808`。 | <a href="/go.html?id=bianyuan" target="_blank" rel="nofollow sponsored noopener noreferrer">👉 官网直达</a> |
+| **10** | **<a href="/go.html?id=kuaili" target="_blank" rel="nofollow sponsored noopener noreferrer">快狸 (KuaiLi)</a>** | **8.8 ★★★★☆** | IPLC 专线集群 (VLESS) | ￥15.00/月 (年付￥120折合￥10/月) | 2026 新生代平价专线，全线 VLESS 架构，月付小包 15 元 30~50GB 起步，年付 120 元折合 ￥10/月，轻量出海与学术备用优选。 | <a href="/go.html?id=kuaili" target="_blank" rel="nofollow sponsored noopener noreferrer">👉 官网直达</a> |
 
 ---
 

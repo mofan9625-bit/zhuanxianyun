@@ -41,6 +41,26 @@ description: "汇总 2026 最新各大 IPLC 专线机场独家优惠码、长周
 - **优惠折扣**：月付起步价仅 **￥22.00 / 月**（折合 ￥8/月起）。
 - 👉 <a href="/go.html?id=shandianshu" target="_blank" rel="nofollow sponsored noopener noreferrer">**获取闪电鼠最新优惠**</a>
 
+### 7. 可信云 (KeXin) - 2024 老牌稳健专线
+- **专属福利**：采用新一代 VLESS 极速协议，超低连接开销，全自费节点平稳运行。
+- **优惠码与折扣**：独家优惠码 `kkk333`；月付小包仅 **￥15.00 / 月** (60GB)，年费礼包 **￥96.00 / 年**（折合 ￥8/月，60GB/月）。
+- 👉 <a href="/go.html?id=kexin" target="_blank" rel="nofollow sponsored noopener noreferrer">**获取可信云最新优惠**</a>
+
+### 8. 速界 (SuJie) - 纯内网 IEPL 专线
+- **专属福利**：纯内网 IEPL 物理专线架构，搭载 VLESS 协议，抗封锁及高可用表现优异。
+- **优惠码与折扣**：独家优惠码 `sss1111`；体验月付 **￥15.00 / 月** (50GB)，极速年付低至 **￥90.00 / 年**（折合 ￥7.5/月，70GB/月）。
+- 👉 <a href="/go.html?id=sujie" target="_blank" rel="nofollow sponsored noopener noreferrer">**获取速界最新优惠**</a>
+
+### 9. 边缘节点 (EdgeNova) - 2026 新晋高性价比专线
+- **专属福利**：全 IPLC 物理专线集群 + VLESS 协议，2026 全新高速节点。
+- **优惠码与折扣**：独家优惠码 `xk808`；限时月付仅 **￥15.00 / 月** (50GB)，标准版 ￥22/月 (120GB)，特惠年付 **￥98.00 / 年**（45GB/月）。
+- 👉 <a href="/go.html?id=bianyuan" target="_blank" rel="nofollow sponsored noopener noreferrer">**获取边缘节点最新优惠**</a>
+
+### 10. 快狸 (KuaiLi) - 2026 平价实用轻量专线
+- **专属福利**：IPLC 专线保障，全面支持 VLESS 协议，轻量出海与学术资料查阅必备。
+- **优惠折扣**：月付小包 **￥15.00 / 月** (30~50GB)，平价年付 **￥120.00 / 年**（折合 ￥10/月，30~50GB）。
+- 👉 <a href="/go.html?id=kuaili" target="_blank" rel="nofollow sponsored noopener noreferrer">**获取快狸最新优惠**</a>
+
 ---
 
 ## 💡 选购提示与防坑建议
