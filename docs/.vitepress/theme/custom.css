@@ -17,8 +17,13 @@
 }
 
 /* ==============================================================
-   1. Homepage Hero 视觉深度与背景融合优化（消除突兀黑块）
+   1. Homepage Hero 布局对齐与静止质感优化（解决乱动与错位）
    ============================================================== */
+.VPNav {
+  z-index: 100 !important;
+  position: sticky !important;
+}
+
 .VPHome {
   background-image: var(--vp-c-bg-subtle-glow);
   background-attachment: scroll;
@@ -27,70 +32,111 @@
 
 .VPHomeHero {
   position: relative;
-  overflow: visible;
-  padding-bottom: 24px !important;
+  padding-top: 12px !important;
+  padding-bottom: 32px !important;
 }
 
-/* Hero 右侧图片容器与光晕氛围 */
+/* 桌面端：左侧文字与右侧图片严格水平排列、垂直居中对齐 */
+@media (min-width: 960px) {
+  .VPHomeHero .container {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important; /* 关键：左右两侧垂直绝对居中对齐 */
+    justify-content: space-between !important;
+    max-width: 1180px !important;
+    margin: 0 auto !important;
+    padding: 0 32px !important;
+    gap: 40px !important;
+  }
+
+  .VPHomeHero .main {
+    flex: 1 1 55% !important;
+    max-width: 580px !important;
+    text-align: left !important;
+    padding: 0 !important;
+  }
+
+  .VPHomeHero .image {
+    flex: 0 0 45% !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    margin: 0 !important;
+    transform: none !important;
+  }
+
+  .VPHomeHero .image-container {
+    width: 100% !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    transform: none !important;
+  }
+
+  .VPHomeHero .image-src {
+    width: 100% !important;
+    max-width: 450px !important; /* 黄金比例：高度与左侧文字块完美对称 */
+    height: auto !important;
+    border-radius: 16px !important;
+  }
+}
+
+/* 移动端与平板端：垂直居中排列，限制图片宽度不越界 */
+@media (max-width: 959px) {
+  .VPHomeHero .container {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    text-align: center !important;
+  }
+
+  .VPHomeHero .image {
+    margin-top: 24px !important;
+  }
+
+  .VPHomeHero .image-src {
+    max-width: 380px !important;
+    width: 90% !important;
+    border-radius: 14px !important;
+  }
+}
+
+/* Hero 右侧图片容器与静止柔光衬底 */
 .VPHomeHero .image-container {
   position: relative;
-  transform: none;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
-/* 图片外层科技柔光光晕 (Ambient Glow) - 彻底打通黑图与浅色背景的生硬边界 */
+/* 外层科技光晕：固定位置与范围，不放大、不缩放、不干扰鼠标交互 */
 .VPHomeHero .image-container::before {
   content: '';
   position: absolute;
-  inset: -12px;
-  background: radial-gradient(circle at center, rgba(99, 102, 241, 0.35) 0%, rgba(6, 182, 212, 0.22) 45%, transparent 72%);
-  filter: blur(48px);
+  inset: -8px;
+  background: radial-gradient(circle at center, rgba(99, 102, 241, 0.28) 0%, rgba(6, 182, 212, 0.16) 50%, transparent 70%);
+  filter: blur(36px);
   z-index: 0;
-  border-radius: 32px;
-  pointer-events: none;
-  animation: heroGlowPulse 4s ease-in-out infinite alternate;
+  border-radius: 24px;
+  pointer-events: none !important; /* 禁止接收鼠标事件，杜绝抖动 */
 }
 
-@keyframes heroGlowPulse {
-  0% { opacity: 0.7; transform: scale(0.96); }
-  100% { opacity: 1; transform: scale(1.04); }
-}
-
-/* Hero 图片自身：悬浮卡片感、圆角、多层阴影与微发光边框 */
+/* Hero 图片自身：保持绝对静止，坚决移除 hover 放大和移动，优雅沉稳 */
 .VPHomeHero .image-src {
   position: relative;
   z-index: 1;
-  width: min(100%, 540px);
-  max-width: 540px !important;
-  max-height: none !important;
-  height: auto;
-  border-radius: 20px !important;
+  display: block !important;
   background-color: #0b0f19;
   box-shadow: 
-    0 25px 50px -12px rgba(15, 23, 42, 0.28),
+    0 18px 36px -10px rgba(15, 23, 42, 0.24),
     0 0 0 1px rgba(99, 102, 241, 0.22),
-    0 0 30px rgba(99, 102, 241, 0.15) !important;
-  transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.35s ease !important;
+    0 0 24px rgba(99, 102, 241, 0.12) !important;
+  /* 严格禁止任何 transform 动画，鼠标悬停完全静止 */
+  transform: none !important;
+  transition: none !important;
+  pointer-events: auto;
 }
 
+/* 鼠标悬停时完全不产生任何位移，杜绝晃动 */
 .VPHomeHero .image-src:hover {
-  transform: translateY(-5px) scale(1.01) !important;
-  box-shadow: 
-    0 30px 60px -12px rgba(99, 102, 241, 0.35),
-    0 0 0 1.5px rgba(99, 102, 241, 0.45),
-    0 0 45px rgba(6, 182, 212, 0.25) !important;
-}
-
-@media (min-width: 960px) {
-  .VPHomeHero .container {
-    max-width: 1240px;
-    align-items: center;
-  }
-  .VPHomeHero .main {
-    max-width: 620px;
-  }
+  transform: none !important;
 }
 
 /* ==============================================================
