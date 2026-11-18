@@ -14,13 +14,14 @@ tags: [Apple TV 科学上网, Android TV 电视端机场推荐, 电视盒子 4K 
 
 ---
 
-## ⚡ 1. 首屏选购速览卡片：客厅大屏追剧核心决策结论
+## ⚡ 1. 电视大屏 4K 流媒体核心配置指标速查
 
-::: tip 📌 2026 电视大屏端专线核心选购结论
-- **重度 4K/8K 蓝光影视追剧狂人**：👉 <a href="/go.html?id=liulian" target="_blank" rel="nofollow sponsored noopener noreferrer">**榴莲云 (LiuLian Cloud)**</a> — 750GB/月超大搬迁包，单节点最高 2.5Gbps 物理带宽，两年付折扣低至 7 折（折合每 GB 不到 1 毛钱），大屏追剧怎么刷都不心疼流量。
-- **全家多设备同时在线 / 合租拼车王**：👉 <a href="/go.html?id=dalaoyun" target="_blank" rel="nofollow sponsored noopener noreferrer">**大佬云 (DaLao Cloud)**</a> — 2.5Gbps 物理专线大带宽，官方支持 6~12 台并发设备席位，电视、手机、电脑全家齐开不挤占连接数。
-- **原生 IP 纯净解锁与极简质价比**：👉 <a href="/go.html?id=yunjiexian" target="_blank" rel="nofollow sponsored noopener noreferrer">**云界线 (Yunjiexian)**</a> — 全节点 1x 真实倍率物理 IPLC 专线，原生 IP 全解 Netflix/Disney+，晚高峰丢包率 0.0%，月付 ￥22 门槛极低。
-- **学生党宿舍小电视 / 百元平价首选**：👉 <a href="/go.html?id=sujie" target="_blank" rel="nofollow sponsored noopener noreferrer">**速界 (SuJie)**</a> (年付仅 ￥90 折合 ￥7.5/月) 或 <a href="/go.html?id=huanqiuti" target="_blank" rel="nofollow sponsored noopener noreferrer">**环球梯 (HuanQiu Ti)**</a> (Hysteria2 弱网加速 ￥96/年)。
+::: tip 📌 客厅大屏科学上网核心技术指标
+- **解码协议首选**：VLESS / Hysteria2（轻量化协议头，减少电视芯片 CPU 软解密开销，避免发热掉帧）；
+- **节点带宽基准**：晚高峰单节点实测下行带宽建议 **≥ 100 Mbps**，网络抖动 (Jitter) **< 3 ms**；
+- **真实倍率要求**：严格使用 **1.0x 真实倍率节点**，避免 4K 高码率大吞吐快速耗尽配额；
+- **IP 纯净度检测**：确保落地 IP 属于原生家宽或通过 Netflix / Disney+ 非自制剧全解锁认证；
+- **分流模式准则**：必须开启 **Rule 规则分流** 与 **Fake-IP**，严禁使用全局代理导致国内电视 App 无法播放。
 :::
 
 ---
@@ -123,3 +124,4 @@ tags: [Apple TV 科学上网, Android TV 电视端机场推荐, 电视盒子 4K 
 - 🍈 [**榴莲云 2026 深度评测：750GB 大流量套餐折算每 GB 多少钱？大包长期付性价比与避坑指南**](/article-liulian-2026-review)
 - 💎 [**大佬云 2026 价格评测：按量计费与多设备合租划算吗？真实使用成本深度拆解**](/article-dalaoyun-2026-review)
 - 🚀 [**云界线 2026 深度评测：专线月付多少钱？入门套餐性价比与晚高峰避坑指南**](/article-yunjiexian-2026-review)
+

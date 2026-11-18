@@ -11,7 +11,7 @@ description: "新手必看：2026 全平台 Clash Verge Rev、Sing-box、Shadowr
 
 ## ⚡ 第一步：获取机场订阅链接
 
-1. 注册并登录您选择的机场（如 <a href="/go.html?id=yunjiexian" target="_blank" rel="nofollow sponsored noopener noreferrer">云界线</a> 或 <a href="/go.html?id=dalaoyun" target="_blank" rel="nofollow sponsored noopener noreferrer">大佬云</a>）。
+1. 登录您所使用的机场用户后台（若尚未选定服务商，可先查阅[2026 稳定机场推荐与高速专线评测榜单](/article-2026-airport-selection-guide)）。
 2. 在用户后台面板中，点击 **【一键导入 Clash 订阅】** 或 **【复制订阅地址】**。
 
 ---
