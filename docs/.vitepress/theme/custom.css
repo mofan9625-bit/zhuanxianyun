@@ -140,27 +140,30 @@
 }
 
 /* ==============================================================
-   2. 横评表格排版与双通道按钮胶囊化（解决拥挤断字）
+   2. 横评表格排版与双通道按钮胶囊化（解决穿模、溢出与拥挤）
    ============================================================== */
 .vp-doc table {
-  display: table !important;
+  display: block !important;
   width: 100% !important;
+  max-width: 100% !important;
+  overflow-x: auto !important;
   border-collapse: separate !important;
   border-spacing: 0 !important;
   margin: 24px 0 !important;
   border-radius: 14px !important;
-  overflow: hidden !important;
   border: 1px solid var(--vp-c-divider) !important;
   box-shadow: 0 4px 24px rgba(0, 0, 0, 0.04) !important;
+  -webkit-overflow-scrolling: touch;
 }
 
 .vp-doc th, .vp-doc td {
   border: none !important;
   border-bottom: 1px solid var(--vp-c-divider) !important;
-  padding: 14px 14px !important;
+  padding: 12px 14px !important;
   vertical-align: middle !important;
-  font-size: 0.92rem !important;
+  font-size: 0.90rem !important;
   line-height: 1.5 !important;
+  white-space: normal; /* 允许文本自适应折行，防止强行撑爆容器 */
 }
 
 .vp-doc tr:last-child td {
@@ -172,7 +175,7 @@
   font-weight: 700 !important;
   color: var(--vp-c-text-1) !important;
   white-space: nowrap !important;
-  font-size: 0.95rem !important;
+  font-size: 0.92rem !important;
 }
 
 /* 斑马纹微色差提升可读性 */
@@ -185,8 +188,9 @@
   transition: background-color 0.2s ease;
 }
 
-/* 表格最后一列：锁定不换行，按钮胶囊化呈现 */
-.vp-doc td:last-child {
+/* 仅在最后一列包含操作按钮时才锁定不换行并居中，防止长文本被强行拉伸 */
+.vp-doc td:has(.btn-aff-pill),
+.vp-doc td:has(.btn-review-pill) {
   white-space: nowrap !important;
   min-width: 110px !important;
   text-align: center !important;
@@ -344,7 +348,6 @@
   .vp-doc table {
     display: block !important;
     overflow-x: auto !important;
-    white-space: nowrap !important;
     max-width: 100% !important;
     -webkit-overflow-scrolling: touch;
   }
@@ -359,3 +362,13 @@
     gap: 14px !important;
   }
 }
+
+/* 核心防溢出保护：杜绝任何超宽表格或元素穿模覆盖右侧 On this page 目录 */
+.VPDoc .content-container {
+  overflow-x: hidden !important;
+}
+
+.VPDocAside {
+  z-index: 20 !important;
+}
+
