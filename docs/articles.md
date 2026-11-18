@@ -83,6 +83,9 @@ description: "机场专线云官方知识库：涵盖 2026 最新 IPLC 专线科
 
 ## 🛠️ 客户端配置与使用指南
 
+- 📺 [**2026 Android TV 与 Apple TV 电视端科学上网指南：4K/8K 流媒体高码率专线选购与客户端配置实战**](/article-tv-apple-tv-android-clash-guide)  
+  客厅大屏追剧终极指南：解决 YouTube 4K 转圈、Netflix 锁区自制剧与 Android TV / Apple TV 免软路由订阅导入。
+
 - 📦 [**2026 Clash / Sing-box 客户端配置与节点订阅全流程教程**](/article-clash-2026-setup)  
   Windows、macOS、Android、iOS 全平台科学上网客户端一键配置指南。
 
